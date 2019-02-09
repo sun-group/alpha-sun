@@ -9,6 +9,8 @@ __pycache__/
 *.DS_Store
 /src/resources/divar_posts_dataset.csv
 /divar
+/src/tut/*
+/src/tut
 /divar/*
 # Distribution / packaging
 .Python

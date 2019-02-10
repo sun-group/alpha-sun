@@ -222,7 +222,7 @@ Apple::اپل
 Nokia::نوکیا
 Samsung::سامسونگ
 Apple::اپل
-Samsung::سامسونگ
+Sony::سونی
 Apple::اپل
 Nokia::نوکیا
 Sony::سونی
@@ -250,7 +250,7 @@ Nokia::نوکیا
 Nokia::نوکیا
 Nokia::نوکیا
 Samsung::سامسونگ
-Sony::سونی
+HTC::اچ‌تی‌سی
 Samsung::سامسونگ
 Nokia::نوکیا
 Nokia::نوکیا
@@ -439,7 +439,7 @@ Nokia::نوکیا
 Apple::اپل
 Apple::اپل
 Sony::سونی
-LG::ال‌جی
+Dell::دل
 Samsung::سامسونگ
 Nokia::نوکیا
 Samsung::سامسونگ
@@ -497,7 +497,7 @@ Samsung::سامسونگ
 Samsung::سامسونگ
 Nokia::نوکیا
 Samsung::سامسونگ
-Sony::سونی
+Apple::اپل
 Samsung::سامسونگ
 Apple::اپل
 Nokia::نوکیا
@@ -514,7 +514,7 @@ Sony::سونی
 Apple::اپل
 Nokia::نوکیا
 Samsung::سامسونگ
-Samsung::سامسونگ
+Apple::اپل
 Nokia::نوکیا
 Samsung::سامسونگ
 Nokia::نوکیا
@@ -688,7 +688,7 @@ Nokia::نوکیا
 Nokia::نوکیا
 Dell::دل
 Nokia::نوکیا
-Samsung::سامسونگ
+ZTE::زدتی‌ای
 Nokia::نوکیا
 Nokia::نوکیا
 Samsung::سامسونگ
@@ -802,7 +802,7 @@ Apple::اپل
 Nokia::نوکیا
 Samsung::سامسونگ
 Samsung::سامسونگ
-دل
+                   Dell::دل
 Samsung::سامسونگ
 Nokia::نوکیا
 Nokia::نوکیا

@@ -287,12 +287,12 @@ Nokia::نوکیا
 Nokia::نوکیا
 Nokia::نوکیا
 Apple::اپل
-Nokia::نوکیا
+Huawei::هوآوی
 Dell::دل
 Sony Ericsson::سونی اریکسون
 Nokia::نوکیا
 Nokia::نوکیا
-Nokia::نوکیا
+Huawei::هوآوی
 Nokia::نوکیا
 Nokia::نوکیا
 Dell::دل
@@ -543,7 +543,7 @@ Dell::دل
 Apple::اپل
 Nokia::نوکیا
 Nokia::نوکیا
-Samsung::سامسونگ
+Nokia::نوکیا
 Samsung::سامسونگ
 Apple::اپل
 Nokia::نوکیا
@@ -721,7 +721,7 @@ Nokia::نوکیا
 Apple::اپل
 Nokia::نوکیا
 Nokia::نوکیا
-Apple::اپل
+Samsung::سامسونگ
 Samsung::سامسونگ
 HTC::اچ‌تی‌سی
 Nokia::نوکیا
@@ -802,7 +802,8 @@ Apple::اپل
 Nokia::نوکیا
 Samsung::سامسونگ
 Samsung::سامسونگ
-     Samsung::سامسونگ
+دل
+Samsung::سامسونگ
 Nokia::نوکیا
 Nokia::نوکیا
 Samsung::سامسونگ

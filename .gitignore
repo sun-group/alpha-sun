@@ -7,11 +7,12 @@ __pycache__/
 *.so
 
 *.DS_Store
-/src/resources/divar_posts_dataset.csv
+/src/resources/*
 /divar
 /src/tut/*
 /src/tut
 /divar/*
+/ser/resources
 # Distribution / packaging
 .Python
 build/
